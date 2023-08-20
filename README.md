@@ -1,3 +1,5 @@
+<h3>Preview</h3>
+<p>You can change the branch from up there</p>
 <div style="display: flex; flex-direction: row;">
   <div style="flex: 1;">
     <h1>RougeLites/RougeLikes</h1>
@@ -7,5 +9,8 @@
     <img src="https://docs.unity3d.com/StaticFiles/ScriptRefImages/PerlinExample.png" alt="Perlin Noise Picture" style="max-width: 100%;">
   </div>
     <p>It's perlin noise and most games use this. Some have thier on custom noise. Such game can be like a platformer, dungeon crawler , tower defense or whatever. Anything can be corporated with it it. And when i say anything. It literally meant "ANYTHING"</p>
+    <p>
+      like Hades, Slay the spire, Enter the gungeon, Noita, Dead Cells and many moreeee. if if you want to make such a game then buckle up you are in for a ride.
+    </p>
   </div>
 </div>
