@@ -2,7 +2,7 @@
 It is the most crucial step of any game and for rougelites/rougelikes its the backbone. And it can take the most time in order to make a satisfying game. So no need to rush. We dont give it a number. It just said that</br>
 >Making a Rougelike can be a little rough
 Define the core mechanics and features of your game. Create a design document outlining the gameplay, art style, levels, characters, and progression. If you go in more depth, here is a complete list
-## 1.Theme and Setting
+## 1. Theme and Setting
 The theme of your game provides a central concept that ties together the gameplay mechanics, narrative elements, and overall atmosphere. Here are some examples of themes you might consider:
 ### Fantasy Adventure:
 Set in a medieval fantasy world with magic, knights, and mythical creatures. Players might explore dungeons, slay monsters, and uncover ancient artifacts.
@@ -29,3 +29,22 @@ Establish a backstory for your world. This history can influence the current sta
 Define the level of technology and the role of magic in your world. Are there advanced gadgets, arcane spells, or a combination of both?
 ### Characters:
 Populate your world with interesting characters, both friendly and antagonistic. Each character can have their own motivations, personalities, and relationships.
+
+</hr>
+
+## 2. Mechanics and Gameplay
+In the mechanics the major things are
+### Movement:
+Decide whether movement will be grid-based (tile-by-tile) or free movement. Implement mechanics for navigating different terrains, obstacles, and traps.
+### Combat:
+Choose a combat system: turn-based (like traditional roguelikes) or real-time with pause. Design combat mechanics, including attack accuracy, damage calculations, critical hits, and blocking/defending.
+### Items and Inventory:
+Create a variety of items such as weapons, armor, consumables, and magical artifacts. Implement an inventory system for managing items, including equipping, using, and dropping them.
+### Character Abilities:
+Design unique abilities or skills that the player character can acquire or use. Consider both offensive and defensive abilities, as well as utility skills for exploration.
+### Progression:
+Decide how character progression will work. Will players gain experience points, levels, or some other form of advancement? Determine how character stats (such as health, strength, magic) will improve as the player progresses.
+### Permadeath and Progression:
+Plan how progression will work across playthroughs, considering permadeath. Can players unlock new starting abilities, items, or character options as they play more?
+
+and for the gameplay, 
